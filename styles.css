@@ -1,7 +1,7 @@
 .cuadro{
     width: 100px;
     height: 100px;
-    background: green;  
+    background: red;  
     margin: 10px; 
-    border-radius: 50%;
+
 }
